@@ -7,6 +7,7 @@ To generate a 50 ms delay using Timer 0 in Mode 2 (8-bit timer mode) in 8051.
 ## APPARATUS REQUIRED
 - Personal Computer  
 - Keil µVision software
+- 
 
 ---
 ## Algorithm
