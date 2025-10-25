@@ -44,7 +44,7 @@ END
 ```
 ---
 ## OUTPUT:
-![WhatsApp Image 2025-10-24 at 17 41 11_1126a188](https://github.com/user-attachments/assets/0e57fa73-2ff9-496e-ab66-ba12c6a92966)
+<img width="1536" height="672" alt="image" src="https://github.com/user-attachments/assets/e23446f1-3195-4b76-9556-b7c0f39ea75f" />
 
 ---
 
