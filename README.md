@@ -44,7 +44,7 @@ END
 ```
 ---
 ## OUTPUT:
-<img width="1536" height="672" alt="image" src="https://github.com/user-attachments/assets/e23446f1-3195-4b76-9556-b7c0f39ea75f" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f787d9da-01f1-4d68-86bd-1e3a4476e876" />
 
 ---
 
